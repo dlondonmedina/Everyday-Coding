@@ -1,9 +1,2 @@
 theme: jekyll-theme-architect
 title: Everyday Coding
-toc:
-  - title: Week 2
-    subfolderitems:
-      - page: Scope
-        url: week2/scope.md
-  - title: Week 3
-    subfolderitems:

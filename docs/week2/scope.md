@@ -9,7 +9,7 @@ Scope is a little bit like this. In a program you will have "names" (functions, 
 
 Now applying this metaphor to coding really specifically. Consider the following code:
 
-``` Python
+```python
 some_number = 27
 
 def is_odd(num):
@@ -30,7 +30,7 @@ The variable "some_number" exists in the global space. That's why I can access i
 
 Variables that can be accessed from anywhere in the program are called **global variables**. Variables that can only be accessed within a class or function are called local variables and only exist within that scope. Let's look at a more complicated example:
 
-``` Python
+```python
 import requests
 # Constants
 BASE_URL = 'https://en.wikipedia.org/w/api.php?action=search&search=list'
