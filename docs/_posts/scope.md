@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Scope"
+date:   2019-04-04 17:21:19 -0700
+categories: week2
+---
 # Scope: (Not like the mouthwash)
 One of the more challenging concepts in programming is scope. Scope refers to the context in which a particular set of instructions are being carried out. There are many levels of scope are related largely to how the computer finds things. This gets really complicated, but it is very important. I think a good way to think of it is to begin with a metaphor:
 
