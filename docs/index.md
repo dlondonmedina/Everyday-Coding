@@ -1,9 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
 # Welcome!
 Welcome to the Everyday Coding Repository. This has both the introductory code, the content pages, and Flask. We're learning Flask for a few reasons. First of which is that it is quite Pythonic in the sense that the way you do things is pretty explicit. Flask requires, perhaps, more work to build a complicated web application, and it certainly is not  "batteries included" in the same way that Django is, but I believe that if you learn Flask well, it will be not so difficult to add Django to your programming utility belt.  
 
